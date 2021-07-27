@@ -26,7 +26,7 @@ programa
 		media = total/4
 
 		escreva(funcionario + " vendeu um total de R$" + total + " no primeiro quadrimestre")
-		escreva("\nA média de vendas é de R$" + media)
+		escreva("\n" + "A média de vendas é de R$" + media)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -34,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 435; 
+ * @POSICAO-CURSOR = 709; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
