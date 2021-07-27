@@ -2,7 +2,7 @@
 
 Welcome!
 Este repositório foi criado para agregar atividades, artigos, códigos e conhecimentos gerados a partir do bootcamp patrocionado pela [everis](https://www.everis.com/) na plataforma [Digitial Innovation One](https://digitalinnovation.one/).
-O bootcamp está estruturado em x módulos principais:
+O bootcamp está estruturado em 10 módulos principais:
 * Lógica de Programação Essencial
 * Fundamentos de Arquitetura de Sistemas
 * Desenvolvimento Básico em Java
