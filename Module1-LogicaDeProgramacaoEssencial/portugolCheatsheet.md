@@ -8,7 +8,6 @@ real		// ex: 1.5
 ```
 
 ---------------------------------------
----------------------------------------
 
 ### Desvios Condicionais
 
@@ -52,3 +51,39 @@ escolha(opcao){
 		pare
 }
 ```
+
+---------------------------------------
+
+### Matrizes e Vetores
+* Coleção de variáveis de mesmo tipo (somente "inteiro", "cadeia" etc) 
+* Armazenados contiguamente em memória
+* Acessível com um único nome
+* Elementos são acessados por índices
+* Vetores = matriz de uma dimensão (só temos colunas)
+
+```
+cadeia Vetor[5]			// vetor de 5 posições/colunas
+cadeira Matriz[5][3]	// matriz de 5 linhas e 3 colunas
+```
+~~~
+```
+cadeia frutas[4]
+
+frutas[0] = "Uva"
+frutas[1] = "Maca"
+frutas[2] = "Melancia"
+frutas[3] = "Melão"
+
+escreva(frutas[0])	// Uva
+```
+~~~
+```
+cadeia carrinhoDeCompra[][] = { {"Garrafas", "3"}, {"Caixas", "5"}, {"Cadeiras", "2"} }
+		// dimensao da matriz é dinâmica neste caso [][]
+		// o numero está entre aspas porque as variáveis precisam ser do mesmo tipo. Neste caso, cadeia
+
+
+escreva("Item: " + carrinhoDeCompra[0][0] + "\n" + "Quantidade: " + carrinhoDeCompra[0][1])
+```
+
+---------------------------------------
